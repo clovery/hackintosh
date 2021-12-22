@@ -9,3 +9,9 @@
 * 电源    海盗船 (USCORSAIR) SF600 白金版
 * 机箱    sunmilo机箱定制:T03 A4      
 * 散热器  恩杰 X52 240mm一体式水冷散热器
+
+## CCG
+
+Version: 5.21.0.0
+
+https://mackie100projects.altervista.org/download-clover-configurator/
