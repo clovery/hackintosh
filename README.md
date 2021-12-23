@@ -19,3 +19,24 @@ https://mackie100projects.altervista.org/download-clover-configurator/
 
 ## CloverBootloader
 https://github.com/CloverHackyColor/CloverBootloader
+
+## 配置驱动（Kexts）
+启动必备
+FakeSMC.kext
+Lilu.kext
+WhateverGreen.kext
+显卡
+NoVPAJpeg.kext（独立显卡需要，解决无法预览和打开 JPG 图片）
+声卡
+AppleALC.kext
+有线网卡
+IntelMausiEthernet.kext
+无线网卡
+AirportBrcmFixup.kext
+蓝牙 (配合 Kext Utility/KextBeast 安装到系统)
+BrcmFirmwareRepo.kext
+BrcmPatchRAM2.kext
+
+## 参考资源
+
+* [\[安装实录\] 零基础完美黑苹果安装之华硕篇](https://zhuanlan.zhihu.com/p/55991446)
