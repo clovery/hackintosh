@@ -17,6 +17,10 @@
 $ sudo dmidecode | less
 ```
 
+## 镜像
+
+[macOS Big Sur 11.6 20G165 Installer for OC/CLOVER/PE三EFI分区原版镜像](https://mp.weixin.qq.com/s/jgqty_4djEm6xtlNe_cIew)
+
 ## CCG
 
 Version: 5.21.0.0
