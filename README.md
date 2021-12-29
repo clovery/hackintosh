@@ -17,7 +17,19 @@
 $ sudo dmidecode | less
 ```
 
+## Kext
+
+* WhateverGreen.kext
+* AppleALC.kext
+* IntelMausi.kext
+* Lilu.kext
+* SMCProcessor.kext
+* SMCSuperIO.kext
+* USBInjectAll.kext
+* VirtualSMC.kext
+
 ## 参考资源
 
 * [\[安装实录\] 零基础完美黑苹果安装之华硕篇](https://zhuanlan.zhihu.com/p/55991446)
 * [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
+* [macOS 开启 HiDPI，增加4k、2k、1080P、720P等多种分辨率，解决字体小、模糊、睡眠、唤醒黑屏、花屏、无法连接外部显示器、消除出现8个苹果的概率](http://imacos.top/2019/10/08/2319/)
