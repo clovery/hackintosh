@@ -28,6 +28,12 @@ $ sudo dmidecode | less
 * USBInjectAll.kext
 * VirtualSMC.kext
 
+
+## Audio
+
+AudioDevice: PciRoot(0x0)/Pci(0x1b,0x0)
+
+
 ## 参考资源
 
 * [\[安装实录\] 零基础完美黑苹果安装之华硕篇](https://zhuanlan.zhihu.com/p/55991446)
